@@ -1,4 +1,4 @@
-package JR.Kodesource;
+package javarush.Kodesource;
 /*
 10. Напишите программу на Java для вычисления указанной формулы. Перейти к редактору
 Указанная формула:

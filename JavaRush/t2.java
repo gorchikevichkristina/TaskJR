@@ -1,4 +1,4 @@
-package JR;
+package javarush;
 //поменять значение элемента массива на противоположное
 public class t2 {
     public static int[] array = new int[]{-1, 2, 3, -4, -5};

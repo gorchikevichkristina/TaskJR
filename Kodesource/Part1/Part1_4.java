@@ -1,4 +1,4 @@
-package JR.Kodesource;
+package javarush.Kodesource;
 /*
 4. Напишите Java-программу для печати результата следующих операций.
 Тестовые данные:

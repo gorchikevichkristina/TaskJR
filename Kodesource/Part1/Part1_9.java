@@ -1,4 +1,4 @@
-package JR.Kodesource;
+package javarush.Kodesource;
 /*
 9. Напишите программу на Java для вычисления указанных выражений и распечатки вывода.
 Тестовые данные:

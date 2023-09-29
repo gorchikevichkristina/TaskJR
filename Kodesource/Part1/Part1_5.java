@@ -1,4 +1,4 @@
-package JR.Kodesource;
+package javarush.Kodesource;
 
 import java.util.Scanner;
 

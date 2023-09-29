@@ -1,4 +1,4 @@
-package JR.Kodesource;
+package javarush.Kodesource;
 //2. Напишите программу на Java для вывода суммы двух чисел.
 //        Тестовые данные:
 //        74 + 36

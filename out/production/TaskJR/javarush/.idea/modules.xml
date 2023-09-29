@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kodesource/Kodesource.iml" filepath="$PROJECT_DIR$/Kodesource/Kodesource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskJR.iml" filepath="$PROJECT_DIR$/TaskJR.iml" />
+    </modules>
+  </component>
+</project>

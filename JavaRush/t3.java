@@ -1,4 +1,4 @@
-package JR;
+package javarush;
 
 import java.util.Scanner;
 
