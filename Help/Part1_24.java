@@ -1,0 +1,16 @@
+package javarush.Help;
+/*
+24. Напишите программу на Java для преобразования двоичного числа в восьмеричное число. Перейти к редактору
+Входные данные:
+Введите двоичное число: 111
+Ожидаемый результат
+
+ Восьмеричное число: 7
+ */
+public class Part1_24 {
+    public static void main(String[] args) {
+        String n = "111";
+        int num = Integer.parseInt(n, 8);
+        System.out.println(num);
+    }
+}
