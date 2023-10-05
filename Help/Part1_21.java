@@ -10,15 +10,8 @@ package javarush.Help;
  */
 public class Part1_21 {
     public static void main(String[] args) {
-        int a = 15;
-        int n = 0;
-        while (a != 0) {
-            a = a % 2;
-            n++;
-//        String n = "15";
-//        int num = Integer.parseInt(n, 10);
-//        System.out.println(num);
-        }
+        String n = "15";
     }
 }
+
 
