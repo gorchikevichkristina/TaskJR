@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
 Тестовые данные:
 Введите первое число: 25
 Введите второе число: 5
-Ожидаемый результат :
+Ожидаемый результат:
 25 х 5 = 125
  */
 public class Part1_5 {

@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 /*
 25. Напишите программу на Java для преобразования восьмеричного числа в десятичное число. Перейти к редактору
 Входные данные:

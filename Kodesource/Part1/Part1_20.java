@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 /*
 20. Напишите Java-программу для преобразования десятичного числа в шестнадцатеричное число.
 Входные данные:

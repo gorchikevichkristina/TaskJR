@@ -1,8 +1,8 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 //2. Напишите программу на Java для вывода суммы двух чисел.
 //        Тестовые данные:
 //        74 + 36
-//        Ожидаемый результат :
+//        Ожидаемый результат:
 //        110
 
 import java.util.Scanner;

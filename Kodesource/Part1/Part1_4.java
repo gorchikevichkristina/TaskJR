@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 /*
 4. Напишите Java-программу для печати результата следующих операций.
 Тестовые данные:
@@ -6,7 +6,7 @@ package javarush.Kodesource;
 б. (55 + 9)% 9
 с. 20 + -3 * 5/8
 д. 5 + 15/3 * 2 - 8% 3
-Ожидаемый результат :
+Ожидаемый результат:
 43
 1
 19

@@ -1,4 +1,4 @@
-package javarush.Help;
+package javarush.Kodesource.Help;
 
 import java.util.Scanner;
 

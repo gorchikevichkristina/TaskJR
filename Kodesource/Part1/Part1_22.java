@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 /*
 22. Напишите программу на Java для преобразования двоичного числа в десятичное число.
 Входные данные:

@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 /*
 16. Напишите программу на Java для печати лица.
 Ожидаемый результат

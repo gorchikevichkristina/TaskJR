@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 
 /*
 11. Напишите Java-программу для печати области и периметра круга.

@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 //15. Напишите программу на Java для замены двух переменных.
 
 public class Part1_15 {

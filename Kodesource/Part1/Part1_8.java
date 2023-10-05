@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 /*
 8. Напишите программу на Java для отображения следующего шаблона.
 Образец шаблона:

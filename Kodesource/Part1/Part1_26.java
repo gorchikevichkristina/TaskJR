@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 /*
 26. Напишите программу на Java для преобразования восьмеричного числа в двоичное число.
 Входные данные:

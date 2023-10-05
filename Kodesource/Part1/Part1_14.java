@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 
 /*
 14. Напишите Java-программу для печати американского флага на экране. Перейти к редактору

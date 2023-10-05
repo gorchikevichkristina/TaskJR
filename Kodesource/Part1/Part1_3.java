@@ -1,4 +1,4 @@
-package javarush.Kodesource;
+package javarush.Kodesource.Part1;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
 3. Напишите программу на Java, чтобы разделить два числа и напечатать на экране.
 Тестовые данные:
 50/3
-Ожидаемый результат :
+Ожидаемый результат:
 16
  */
 public class Part1_3 {
