@@ -1,4 +1,4 @@
-package javarush;
+package javarush.Old;
 /*
 Объединяем массивы
 */
