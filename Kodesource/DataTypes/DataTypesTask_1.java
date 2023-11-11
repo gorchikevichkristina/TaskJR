@@ -13,8 +13,8 @@ public class DataTypesTask_1 {
     public static void main(String[] args) {
         //(212°F-32)×5/9 = 100°C
         Scanner scanner = new Scanner(System.in);
-        int num = scanner.nextInt();
-        int conv = (num - 32) * 5 / 9;
+        double  num = scanner.nextInt();
+        double  conv = (num - 32) * 5 / 9;
         System.out.println(conv);
 
     }
